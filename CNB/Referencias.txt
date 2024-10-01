@@ -1,0 +1,31 @@
+1.	Anderson, L. J., Hierholzer, J. C., Tsou, C., Hendry, R. M., Fernie, B. F., et al. (1985). Antigenic characterization of respiratory syncytial virus strains with monoclonal antibodies. The Journal of Infectious Diseases, 151(4), 626-633.
+2.	Avila, V., Calvo, E., Barbosa, J., Velandia-Romero, M. L., & Castellanos, J. E. (2018). Description of respiratory syncytial virus genotypes circulating in Colombia. Journal of infection in developing countries, 12(12), 1112–1118. 
+3.	Bertino, J. S. (2002). Cost burden of viral respiratory infections: Issues for formulary decision-makers. The American Journal of Medicine, 112(6A), 42S-49S.
+4.	Centers for Disease Control and Prevention. (2021). Viral surveillance and outbreak response using molecular epidemiology. CDC Guidelines, 12(3), 45-67.
+5.	Kim, H. N., Hwang, J., Yoon, S. Y., Lim, C. S., et al. (2023). Molecular characterization of human respiratory syncytial virus in Seoul, South Korea, during 10 consecutive years, 2010-2019. PloS one, 18(4), e0283873. 
+6.	Londono-Avendano, M. A., Peláez-Moreno, M., López Medina, E., Moreno Turriago, M. S., & Parra Patiño, B. (2021). Transmission of Respiratory Syncytial Virus genotypes in Cali, Colombia. Influenza and other respiratory viruses, 15(4), 521–528. 
+7.	Drysdale, S. B., Mejias, A., Ramilo, O. (2017). Rhinovirus – Not just a common cold. The Journal of Infectious Diseases, 216(5), 516-518.
+8.	Fendrick, A. M., Monto, A. S., Nightengale, B., et al. (2003). The economic burden of non-influenza-related viral respiratory tract infection in the United States. Archives of Internal Medicine, 163(4), 487-494.
+9.	Fawkner-Corbett, D. W., Khoo, S. K., Duarte, C. M., et al.. (2016). Rhinovirus-C detection in children presenting with acute respiratory infection to hospital in Brazil. Journal of medical virology, 88(1), 58–63. 
+10.	García Corzo, G., Ramos López, J., Villegas Durango, A. M. (2016). Detección de virus respiratorios en pacientes con infecciones respiratorias agudas en Santander, Colombia. Revista de Salud Pública, 18(2), 234-240.
+11.	Gimenez, H. B., Cash, P., Desselberger, U., et al. (1986). Monoclonal antibodies to the G glycoprotein of human respiratory syncytial virus. Journal of General Virology, 67(Pt 10), 2043-2048.
+12.	Griffiths, C., Drews, S. J., & Marchant, D. J. (2017). Respiratory syncytial virus: Infection, detection, and new options for prevention and treatment. Clinical Microbiology Reviews, 30(1), 277-319.
+13.	*International Committee on Taxonomy of Viruses (ICTV). (2023). Taxonomy release 2023. ICTV Online.
+14.	Iwane, M. K., Edwards, K. M., Szilagyi, P. G., et al. (2011). Population-based surveillance for hospitalizations associated with respiratory syncytial virus, influenza virus, and parainfluenza viruses among children. Pediatrics, 123(5), 992-1003.
+15.	Kapikian, A. Z., James, H. J., & Chanock, R. M. (1971). Rhinoviruses: Classification and possible new approaches to vaccine development. Journal of Infectious Diseases, 124(3), 309-317.
+16.	Katoh, K., & Standley, D. M. (2013). MAFFT multiple sequence alignment software version 7: Improvements in performance and usability. Molecular Biology and Evolution, 30(4), 772-780.
+17.	Katoh, K., Misawa, K., Kuma, K., et al. (2009). MAFFT: A novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Research, 30(14), 3059-3066.
+18.	Kurskaya, O., Ryabichenko, T., Sharshov, K., et al. (2018). Viral respiratory infections in Siberia: Influenza and other respiratory viruses. Journal of Medical Virology, 90(4), 730-740.
+19.	Kuypers, J., Wright, N., Ferrenberg, J., et al. (2004). Comparison of real-time PCR assays with fluorescent-antibody assays for diagnosis of respiratory virus infections in children. Journal of Clinical Microbiology, 42(11), 4865-4869.
+20.	Louie, J. K., Roy-Burman, A., Guardia-LaBar, L., et al. (2009). Rhinovirus associated severe pneumonia in a child with acute lymphoblastic leukemia. Pediatric Pulmonology, 44(5), 455-458.
+21.	McIntyre, C. L., Knowles, N. J., & Simmonds, P. (2013). Molecular epidemiology of human rhinoviruses associated with respiratory infections in the United Kingdom from 1996 to 2008. Journal of Clinical Microbiology, 51(7), 2071-2085.
+22.	Muñoz-Escalante, J. C., Comas-Garcia, A., Falfán-Valencia, R., et al. (2019). Human respiratory syncytial virus A genotype classification based on systematic phylogenetic analysis. Journal of Virology, 93(4), e01996-18.
+23.	Mufson, M. A., Orvell, C., Rafnar, B., et al. (1985). Two distinct subtypes of human respiratory syncytial virus. Journal of General Virology, 66(Pt 10), 2111-2124.
+24.	Nichol, K. L., Nordin, J. D., Nelson, D. B., et al. (2005). Effective clinical practice: The efficacy and cost-effectiveness of vaccination against influenza among elderly persons living in the community. The New England Journal of Medicine, 353(13), 1343-1351.
+25.	Pandya, N., Desai, S., & Jani, K. (2019). Genotypic diversity and phylogenetic analysis of rhinovirus isolates from respiratory samples in India. Journal of Clinical Virology, 113(12), 1-5.
+26.	Palacio Rua, A., Rodríguez, N., & Moros, Z. (2022). Reemerging viral pathogens: New challenges for public health surveillance. Revista Colombiana de Virología, 14(2), 85-98.
+27.	Roelen, C. A. M., Koopmans, P. C., Groothoff, J. W. (2011). Sickness absence due to respiratory infections: The role of health behaviour. Occupational Medicine, 61(3), 183-187.
+28.	Rogan, D. T. (2017). Molecular diagnostics in respiratory infections: Advances in technology and clinical impact. Journal of Clinical Virology, 94(2), 17-22.
+29.	Sangil, A., Calhoun, W. J., & Ameredes, B. T. (2012). Rhinovirus-induced exacerbations of asthma: An update on pathogenesis and management. Current Allergy and Asthma Reports, 12(5), 339-349.
+30.	Zhao, Y., Shen, J., Wu, B., Liu, G., Lu, R., & Tan, W. (2018). Genotypic Diversity and Epidemiology of Human Rhinovirus Among Children With Severe Acute Respiratory Tract Infection in Shanghai, 2013-2015. Frontiers in microbiology, 9, 1836. 
+31.	Zlateva, K. T., Van Ranst, M. (2004). Detection of multiple rhinovirus species in respiratory samples. Journal of Virological Methods, 122(1), 145-149.
